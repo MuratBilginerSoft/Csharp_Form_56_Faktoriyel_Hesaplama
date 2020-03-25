@@ -1,0 +1,18 @@
+C:\Users\user\Desktop\While Faktöriyel Hesaplama\While Faktöriyel Hesaplama\bin\Debug\While Faktöriyel Hesaplama.exe.config
+C:\Users\user\Desktop\While Faktöriyel Hesaplama\While Faktöriyel Hesaplama\bin\Debug\While Faktöriyel Hesaplama.exe
+C:\Users\user\Desktop\While Faktöriyel Hesaplama\While Faktöriyel Hesaplama\bin\Debug\While Faktöriyel Hesaplama.pdb
+C:\Users\user\Desktop\While Faktöriyel Hesaplama\While Faktöriyel Hesaplama\obj\Debug\While Faktöriyel Hesaplama.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\While Faktöriyel Hesaplama\While Faktöriyel Hesaplama\obj\Debug\While_Faktöriyel_Hesaplama.Form1.resources
+C:\Users\user\Desktop\While Faktöriyel Hesaplama\While Faktöriyel Hesaplama\obj\Debug\While_Faktöriyel_Hesaplama.Properties.Resources.resources
+C:\Users\user\Desktop\While Faktöriyel Hesaplama\While Faktöriyel Hesaplama\obj\Debug\While Faktöriyel Hesaplama.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\While Faktöriyel Hesaplama\While Faktöriyel Hesaplama\obj\Debug\While Faktöriyel Hesaplama.exe
+C:\Users\user\Desktop\While Faktöriyel Hesaplama\While Faktöriyel Hesaplama\obj\Debug\While Faktöriyel Hesaplama.pdb
+E:\03 - Yazılım\Yeni klasör (2)\While Faktöriyel Hesaplama\While Faktöriyel Hesaplama\bin\Debug\While Faktöriyel Hesaplama.exe.config
+E:\03 - Yazılım\Yeni klasör (2)\While Faktöriyel Hesaplama\While Faktöriyel Hesaplama\bin\Debug\While Faktöriyel Hesaplama.exe
+E:\03 - Yazılım\Yeni klasör (2)\While Faktöriyel Hesaplama\While Faktöriyel Hesaplama\bin\Debug\While Faktöriyel Hesaplama.pdb
+E:\03 - Yazılım\Yeni klasör (2)\While Faktöriyel Hesaplama\While Faktöriyel Hesaplama\obj\Debug\While Faktöriyel Hesaplama.csprojResolveAssemblyReference.cache
+E:\03 - Yazılım\Yeni klasör (2)\While Faktöriyel Hesaplama\While Faktöriyel Hesaplama\obj\Debug\While_Faktöriyel_Hesaplama.Form1.resources
+E:\03 - Yazılım\Yeni klasör (2)\While Faktöriyel Hesaplama\While Faktöriyel Hesaplama\obj\Debug\While_Faktöriyel_Hesaplama.Properties.Resources.resources
+E:\03 - Yazılım\Yeni klasör (2)\While Faktöriyel Hesaplama\While Faktöriyel Hesaplama\obj\Debug\While Faktöriyel Hesaplama.csproj.GenerateResource.Cache
+E:\03 - Yazılım\Yeni klasör (2)\While Faktöriyel Hesaplama\While Faktöriyel Hesaplama\obj\Debug\While Faktöriyel Hesaplama.exe
+E:\03 - Yazılım\Yeni klasör (2)\While Faktöriyel Hesaplama\While Faktöriyel Hesaplama\obj\Debug\While Faktöriyel Hesaplama.pdb
